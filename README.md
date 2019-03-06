@@ -8,7 +8,7 @@ Please run `main_experiment.py`
 Please run `run_model.py` in planar_test folder
 
 Before training:
-![alt text](https://github.umn.edu/wang5699/normalizing-flows/blob/master/planar_test/before_training.png)
+![alt text](https://github.com/farfallawang/neural-density-estimator/blob/master/planar_test/before_training.png)
 
 After training:
-![alt text](https://github.umn.edu/wang5699/normalizing-flows/blob/master/planar_test/after_training.png)
+![alt text](https://github.com/farfallawang/neural-density-estimator/blob/master/planar_test/after_training.png)
